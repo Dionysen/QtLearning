@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>text.png</file>
+        <file>qrcode.png</file>
+        <file>button.png</file>
+        <file>folder.png</file>
+        <file>person.png</file>
+        <file>person1.png</file>
+        <file>phone.png</file>
+        <file>picture.png</file>
+        <file>emoji.png</file>
+        <file>more.png</file>
+    </qresource>
+</RCC>
